@@ -1,0 +1,71 @@
+body
+{
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+ul
+{
+    padding: 30pt;
+    margin-top: 0pt;
+    margin-left: 20pt;
+    margin-right: 20pt;
+    margin-bottom: 0pt;
+}
+
+a :link
+{
+    color: white;
+}
+
+a :visited
+{
+    color: white;
+}
+
+.nav
+{
+    width: 100%;
+    padding-left: 30pt;
+    padding-top: 10pt;
+    padding-bottom: 10pt;
+    margin-left: 10pt;
+}
+
+.Form
+{
+    text-align: left;
+    width: 300pt;
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+
+button
+{
+  margin:auto;
+  display:block;
+}
+
+p
+{
+    margin-top: 0pt;
+    margin-left: 20pt;
+    margin-right: 20pt;
+    margin-bottom: 0pt;
+}
+
+header
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: center;
+}
